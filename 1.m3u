@@ -44,7 +44,7 @@ https://cdn-nvm-newyork.lolokoko.tv/TVN.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tvn_7.png",TVN 7
 https://cdn-nvm-newyork.lolokoko.tv/TVN7.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat.png",Polsat
-"file":"https://cdn-nvm-newyork.lolokoko.tv/Polsat.stream/playlist.m3u8
+https://cdn-nvm-newyork.lolokoko.tv/Polsat.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/polsat2.png",Polsat 2
 https://cdn-nvm-newyork.lolokoko.tv/Polsat2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gps-team.pl/tv/logo/tv_4.png",  TV 4
